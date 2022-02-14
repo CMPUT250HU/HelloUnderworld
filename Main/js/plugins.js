@@ -9,5 +9,6 @@ var $plugins =
 {"name":"DMY_SkipVideo","status":true,"description":"Skip video on key press","parameters":{"Disabler switch":"0"}},
 {"name":"AS_InputSettings","status":true,"description":"WASD Movement, Disable F keys and Disable mouse/touch input.","parameters":{"WASD Control":"true","Disable F2 F3 and F4":"false","Disable Gamepad":"false","Disable Mouse":"false","Disable Mouse Move":"false"}},
 {"name":"TerraxLighting","status":true,"description":"v1.5.1 Creates an extra layer that darkens a map and adds lightsources!","parameters":{"Player radius":"200","Add to options":"Yes","Option menu entry":"Lighting effects","Reset Lights":"No","Save DaynightHours":"0","Save DaynightMinutes":"0","Save DaynightSeconds":"0","Flashlight offset":"0","Screensize X":"866","Screensize Y":"630","Kill Switch":"No"}},
-{"name":"lineofsight","status":true,"description":"","parameters":{}}
+{"name":"lineofsight","status":true,"description":"","parameters":{}},
+{"name":"GitCompatibilityPatch","status":true,"description":"Formats RPG maker files when the game is run in playtest mode to allow them to be auto merged in most cases.","parameters":{"Format All":"false","Debug":"true","Remove RPG Maker Data":"true","Expand Map Groups":"true","Manage Events":"true","Blacklist":"[\"commonevents.json\",\"plugins.js\"]"}}
 ];
