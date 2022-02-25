@@ -15,7 +15,7 @@
   "pitch": 100,
   "volume": 90
  },
- "disableDashing": false,
+ "disableDashing": true,
  "displayName": "Fields of Asphodel",
  "encounterList": [],
  "encounterStep": 30,
