@@ -73,7 +73,7 @@
   "id": 4,
   "battlerName": "Actor2_7",
   "characterIndex": 6,
-  "characterName": "Actor2",
+  "characterName": "People1",
   "classId": 4,
   "equips": [
    4,
@@ -83,7 +83,7 @@
    4
   ],
   "faceIndex": 6,
-  "faceName": "Actor2",
+  "faceName": "People1",
   "traits": [],
   "initialLevel": 1,
   "maxLevel": 99,
@@ -91,5 +91,51 @@
   "nickname": "",
   "note": "",
   "profile": ""
+ },
+ {
+  "id": 5,
+  "battlerName": "",
+  "characterIndex": 5,
+  "characterName": "Nature",
+  "classId": 1,
+  "equips": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "faceIndex": 5,
+  "faceName": "Nature",
+  "traits": [],
+  "initialLevel": 1,
+  "maxLevel": 99,
+  "name": "Jenny",
+  "nickname": "",
+  "note": "",
+  "profile": "Jenny from the block."
+ },
+ {
+  "id": 6,
+  "battlerName": "",
+  "characterIndex": 6,
+  "characterName": "Monster",
+  "classId": 1,
+  "equips": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "faceIndex": 6,
+  "faceName": "Monster",
+  "traits": [],
+  "initialLevel": 1,
+  "maxLevel": 99,
+  "name": "Joel",
+  "nickname": "",
+  "note": "",
+  "profile": "Ya boi!"
  }
 ]
