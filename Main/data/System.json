@@ -325,9 +325,9 @@
    "volume": 90
   }
  ],
- "startMapId": 6,
- "startX": 1,
- "startY": 6,
+ "startMapId": 4,
+ "startX": 15,
+ "startY": 29,
  "switches": [
   "",
   "Turn off 1",
@@ -450,7 +450,7 @@
   "",
   "",
   "",
-  "screen pan 1",
+  "orus1",
   "wood1_instruction",
   "oldmanHelp",
   "",
