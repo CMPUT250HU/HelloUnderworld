@@ -325,13 +325,13 @@
    "volume": 90
   }
  ],
- "startMapId": 4,
- "startX": 83,
- "startY": 5,
+ "startMapId": 1,
+ "startX": 26,
+ "startY": 4,
  "switches": [
   "",
-  "Turn off 1",
-  "Turn off 2",
+  "note task given",
+  "princess love",
   "Turn off 3",
   "Turn off 4",
   "Turn off 5",
