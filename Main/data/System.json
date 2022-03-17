@@ -325,9 +325,9 @@
    "volume": 90
   }
  ],
- "startMapId": 1,
- "startX": 11,
- "startY": 12,
+ "startMapId": 7,
+ "startX": 27,
+ "startY": 21,
  "switches": [
   "",
   "note task given",
@@ -483,11 +483,11 @@
   "Orus Walking Away",
   "Talking to Archilles",
   "Talking to Patroclus",
-  "",
-  "",
-  "",
-  "",
-  "",
+  "fluteConvoOver",
+  "tart",
+  "canNobodyHearMeeeee",
+  "hessa",
+  "riverSpookyNoooo",
   "",
   ""
  ],
