@@ -325,9 +325,9 @@
    "volume": 90
   }
  ],
- "startMapId": 10,
- "startX": 5,
- "startY": 8,
+ "startMapId": 4,
+ "startX": 8,
+ "startY": 22,
  "switches": [
   "",
   "note task given",
