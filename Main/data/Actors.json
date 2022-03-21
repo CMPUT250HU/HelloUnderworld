@@ -72,8 +72,8 @@
  {
   "id": 4,
   "battlerName": "Actor2_7",
-  "characterIndex": 6,
-  "characterName": "People1",
+  "characterIndex": 0,
+  "characterName": "Daedalus",
   "classId": 4,
   "equips": [
    4,
@@ -82,8 +82,8 @@
    3,
    4
   ],
-  "faceIndex": 6,
-  "faceName": "People1",
+  "faceIndex": 0,
+  "faceName": "Daedalus",
   "traits": [],
   "initialLevel": 1,
   "maxLevel": 99,

@@ -325,9 +325,9 @@
    "volume": 90
   }
  ],
- "startMapId": 7,
- "startX": 10,
- "startY": 13,
+ "startMapId": 3,
+ "startX": 0,
+ "startY": 6,
  "switches": [
   "",
   "note task given",
@@ -500,16 +500,16 @@
   "tav b",
   "tav crowd scatter",
   "tinder aquired",
+  "tav ins a",
+  "tav in b",
+  "tav tinder played",
   "",
   "",
   "",
   "",
   "",
-  "",
-  "",
-  "",
-  "",
-  ""
+  "tav spirit flee",
+  "cal side"
  ],
  "terms": {
   "basic": [
