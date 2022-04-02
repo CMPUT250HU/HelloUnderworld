@@ -325,9 +325,9 @@
    "volume": 90
   }
  ],
- "startMapId": 8,
- "startX": 41,
- "startY": 12,
+ "startMapId": 7,
+ "startX": 9,
+ "startY": 13,
  "switches": [
   "",
   "note task given",
@@ -506,10 +506,20 @@
   "bumped",
   "Talked to Nun",
   "Can't Get Past Spirits",
-  "",
+  "Talked to Weird Man",
   "freemove",
   "tav spirit flee",
-  "cal side"
+  "cal side",
+  "Arachne's Name",
+  "First Walkaway Orus",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
  ],
  "terms": {
   "basic": [

@@ -11,7 +11,7 @@
  {"id":9,"expanded":true,"name":"Minotaur Den","order":10,"parentId":8,"scrollX":0,"scrollY":0},
  {"id":10,"expanded":true,"name":"TavernInside","order":11,"parentId":8,"scrollX":0,"scrollY":0},
  {"id":11,"expanded":true,"name":"Other Bank of River Styx","order":7,"parentId":2,"scrollX":0,"scrollY":0},
- null,
+ {"id":12,"expanded":true,"name":"Tunnel to the Minotaur","order":12,"parentId":8,"scrollX":0,"scrollY":0},
  null,
  null,
  null,
