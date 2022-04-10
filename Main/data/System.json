@@ -325,9 +325,9 @@
    "volume": 90
   }
  ],
- "startMapId": 12,
- "startX": 8,
- "startY": 6,
+ "startMapId": 7,
+ "startX": 9,
+ "startY": 13,
  "switches": [
   "",
   "note task given",
@@ -523,7 +523,7 @@
   "jenny",
   "wood picked up",
   "Muse walk",
-  "",
+  "OpeningCut",
   "",
   "",
   "",
