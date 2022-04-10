@@ -326,8 +326,8 @@
   }
  ],
  "startMapId": 4,
- "startX": 15,
- "startY": 28,
+ "startX": 78,
+ "startY": 10,
  "switches": [
   "",
   "note task given",
@@ -520,7 +520,16 @@
   "duval drop",
   "p",
   "partys over",
-  "jenny"
+  "jenny",
+  "wood picked up",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
  ],
  "terms": {
   "basic": [
