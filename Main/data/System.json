@@ -157,7 +157,7 @@
  "optFollowers": true,
  "optSideView": true,
  "optSlipDeath": false,
- "optTransparent": false,
+ "optTransparent": true,
  "partyMembers": [
   1
  ],
@@ -325,9 +325,9 @@
    "volume": 90
   }
  ],
- "startMapId": 1,
- "startX": 33,
- "startY": 28,
+ "startMapId": 12,
+ "startX": 8,
+ "startY": 6,
  "switches": [
   "",
   "note task given",
