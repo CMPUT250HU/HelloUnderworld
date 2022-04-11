@@ -12,5 +12,6 @@ var $plugins =
 {"name":"TerraxLighting","status":true,"description":"v1.5.1 Creates an extra layer that darkens a map and adds lightsources!","parameters":{"Player radius":"200","Add to options":"Yes","Option menu entry":"Lighting effects","Reset Lights":"No","Save DaynightHours":"0","Save DaynightMinutes":"0","Save DaynightSeconds":"0","Flashlight offset":"0","Screensize X":"1200","Screensize Y":"864","Kill Switch":"No"}},
 {"name":"lineofsight","status":true,"description":"","parameters":{}},
 {"name":"GitCompatibilityPatch","status":true,"description":"Formats RPG maker files when the game is run in playtest mode to allow them to be auto merged in most cases.","parameters":{"Format All":"false","Debug":"true","Remove RPG Maker Data":"true","Expand Map Groups":"true","Manage Events":"true","Blacklist":"[\"commonevents.json\",\"plugins.js\"]"}},
-{"name":"ShadowDragon_SM","status":true,"description":"Plugin used to block all movement input via switch.","parameters":{"Disable Movement Switch":"110"}}
+{"name":"ShadowDragon_SM","status":true,"description":"Plugin used to block all movement input via switch.","parameters":{"Disable Movement Switch":"110"}},
+{"name":"MadeWithMv","status":true,"description":"Show a Splash Screen \"Made with MV\" and/or a Custom Splash Screen before going to main screen.","parameters":{"Show Made With MV":"true","Made with MV Image":"HelloUnderworld","Show Custom Splash":"false","Custom Image":"","Fade Out Time":"60","Fade In Time":"60","Wait Time":"60"}}
 ];
